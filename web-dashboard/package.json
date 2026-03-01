@@ -1,0 +1,19 @@
+{
+    "name": "esp32-power-dashboard",
+    "version": "1.0.0",
+    "description": "ESP32 Real-Time Power Monitoring Dashboard with ONNX ML Intelligence — Deployed on Vercel",
+    "private": true,
+    "scripts": {
+        "dev": "npx serve public -l 3000",
+        "start": "npx serve public",
+        "preview": "npx serve public -l 5000 -s"
+    },
+    "keywords": [
+        "esp32",
+        "power-monitor",
+        "onnx",
+        "amd",
+        "dashboard"
+    ],
+    "license": "MIT"
+}
